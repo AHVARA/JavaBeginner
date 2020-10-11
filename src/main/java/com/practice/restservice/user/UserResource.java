@@ -1,6 +1,6 @@
 package com.practice.restservice.user;
 
-import com.practice.katas.S3Utils;
+import com.practice.aws.S3Utils;
 import com.practice.restservice.fileUtils.FileUtils;
 
 import java.io.File;
