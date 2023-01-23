@@ -14,9 +14,9 @@ public class arrays {
         System.out.println("the number you entered is now stored in memory so i can use it later");
         Thread.sleep(4909);
         String[] nameArray = new String[limitOfHowManyCanBeAdded]; // array
-        System.out.println("I used it here to make the box to the limit you wanted");
+        System.out.println("I used it here to make the box to the limit you wanted, few seconds as it loads:)");
         Thread.sleep(4909);
-        System.out.println("Enter the names you want to add (dont forget to hit enter for each one) :: ");
+        System.out.println("Enter the names you want to add (dont forget to hit enter for each one) ");
         for(int i=0; i<limitOfHowManyCanBeAdded; i++) { // looping
             nameArray[i] = input.next();  // adding to array
         }

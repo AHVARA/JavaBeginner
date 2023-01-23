@@ -12,7 +12,7 @@ public class birthdayTask {
         // start with names of people
         List<String> names = new ArrayList<>();
         names.add("Anj");
-        names.add("Isaac");
+        names.add("Tenny");
         names.add("Mum");
         names.add("Riya");
         names.add("Dad");
